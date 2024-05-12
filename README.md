@@ -31,7 +31,8 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
-![Alt text](<Screenshot 2024-05-11 140742.png>)
+![Screenshot 2024-05-11 140742 (1)](https://github.com/Harevasu/Command--line-arguments-to-count-word/assets/147985044/7dca333b-ebdc-4e26-bcf2-c3c7e2d0fe73)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
